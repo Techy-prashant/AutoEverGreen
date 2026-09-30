@@ -4,6 +4,6 @@ if exist build rmdir /s /q build
 if exist dist rmdir /s /q dist
 
 echo Building AutoEverGreen...
-python -m PyInstaller --name AutoEverGreen --onedir --clean --noconfirm main.py
+python -m PyInstaller --name AutoEverGreen --onedir --clean --noconfirm --collect-all customtkinter main.py
 
 echo Build complete! Executable is located at dist\AutoEverGreen\AutoEverGreen.exe
