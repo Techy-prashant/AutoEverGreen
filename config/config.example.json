@@ -1,0 +1,24 @@
+{
+  "settings": {
+    "max_commits_per_run": 5,
+    "dry_run": false
+  },
+  "repositories": [
+    {
+      "name": "auto-green-test",
+      "url": "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git",
+      "branch": "main",
+      "commits": [
+        {
+          "id": "AE-001",
+          "enabled": true,
+          "phase": "Foundation",
+          "file_path": "logs/activity.md",
+          "operation": "append",
+          "content": "Activity recorded.\n",
+          "message_template": "chore: activity log update {date}"
+        }
+      ]
+    }
+  ]
+}
