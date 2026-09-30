@@ -2,3 +2,4 @@
 
 ## Components
 
+- ConfigManager: Handles loading configuration.
