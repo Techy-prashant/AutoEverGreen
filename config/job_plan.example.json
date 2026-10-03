@@ -1,0 +1,690 @@
+{
+  "settings": {
+    "max_commits_per_run": 5,
+    "dry_run": true
+  },
+  "repositories": [
+    {
+      "name": "autoevergreen-history",
+      "url": "https://github.com/YOUR_USERNAME/autoevergreen-history.git",
+      "branch": "main",
+      "commits": [
+        {
+          "id": "AE-001",
+          "enabled": true,
+          "phase": "Initial project structure",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 1: Initial project structure step 1\n",
+          "message_template": "feat(initial-project-structure): implement step 1"
+        },
+        {
+          "id": "AE-002",
+          "enabled": true,
+          "phase": "Initial project structure",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 2: Initial project structure step 2\n",
+          "message_template": "feat(initial-project-structure): implement step 2"
+        },
+        {
+          "id": "AE-003",
+          "enabled": true,
+          "phase": "Initial project structure",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 3: Initial project structure step 3\n",
+          "message_template": "feat(initial-project-structure): implement step 3"
+        },
+        {
+          "id": "AE-004",
+          "enabled": true,
+          "phase": "Initial project structure",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 4: Initial project structure step 4\n",
+          "message_template": "feat(initial-project-structure): implement step 4"
+        },
+        {
+          "id": "AE-005",
+          "enabled": true,
+          "phase": "Initial project structure",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 5: Initial project structure step 5\n",
+          "message_template": "feat(initial-project-structure): implement step 5"
+        },
+        {
+          "id": "AE-006",
+          "enabled": true,
+          "phase": "Configuration system",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 6: Configuration system step 1\n",
+          "message_template": "feat(configuration-system): implement step 1"
+        },
+        {
+          "id": "AE-007",
+          "enabled": true,
+          "phase": "Configuration system",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 7: Configuration system step 2\n",
+          "message_template": "feat(configuration-system): implement step 2"
+        },
+        {
+          "id": "AE-008",
+          "enabled": true,
+          "phase": "Configuration system",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 8: Configuration system step 3\n",
+          "message_template": "feat(configuration-system): implement step 3"
+        },
+        {
+          "id": "AE-009",
+          "enabled": true,
+          "phase": "Configuration system",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 9: Configuration system step 4\n",
+          "message_template": "feat(configuration-system): implement step 4"
+        },
+        {
+          "id": "AE-010",
+          "enabled": true,
+          "phase": "Configuration system",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 10: Configuration system step 5\n",
+          "message_template": "feat(configuration-system): implement step 5"
+        },
+        {
+          "id": "AE-011",
+          "enabled": true,
+          "phase": "Validation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 11: Validation step 1\n",
+          "message_template": "feat(validation): implement step 1"
+        },
+        {
+          "id": "AE-012",
+          "enabled": true,
+          "phase": "Validation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 12: Validation step 2\n",
+          "message_template": "feat(validation): implement step 2"
+        },
+        {
+          "id": "AE-013",
+          "enabled": true,
+          "phase": "Validation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 13: Validation step 3\n",
+          "message_template": "feat(validation): implement step 3"
+        },
+        {
+          "id": "AE-014",
+          "enabled": true,
+          "phase": "Validation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 14: Validation step 4\n",
+          "message_template": "feat(validation): implement step 4"
+        },
+        {
+          "id": "AE-015",
+          "enabled": true,
+          "phase": "Git abstraction",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 15: Git abstraction step 1\n",
+          "message_template": "feat(git-abstraction): implement step 1"
+        },
+        {
+          "id": "AE-016",
+          "enabled": true,
+          "phase": "Git abstraction",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 16: Git abstraction step 2\n",
+          "message_template": "feat(git-abstraction): implement step 2"
+        },
+        {
+          "id": "AE-017",
+          "enabled": true,
+          "phase": "Git abstraction",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 17: Git abstraction step 3\n",
+          "message_template": "feat(git-abstraction): implement step 3"
+        },
+        {
+          "id": "AE-018",
+          "enabled": true,
+          "phase": "Git abstraction",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 18: Git abstraction step 4\n",
+          "message_template": "feat(git-abstraction): implement step 4"
+        },
+        {
+          "id": "AE-019",
+          "enabled": true,
+          "phase": "Git abstraction",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 19: Git abstraction step 5\n",
+          "message_template": "feat(git-abstraction): implement step 5"
+        },
+        {
+          "id": "AE-020",
+          "enabled": true,
+          "phase": "File operations",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 20: File operations step 1\n",
+          "message_template": "feat(file-operations): implement step 1"
+        },
+        {
+          "id": "AE-021",
+          "enabled": true,
+          "phase": "File operations",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 21: File operations step 2\n",
+          "message_template": "feat(file-operations): implement step 2"
+        },
+        {
+          "id": "AE-022",
+          "enabled": true,
+          "phase": "File operations",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 22: File operations step 3\n",
+          "message_template": "feat(file-operations): implement step 3"
+        },
+        {
+          "id": "AE-023",
+          "enabled": true,
+          "phase": "Commit execution",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 23: Commit execution step 1\n",
+          "message_template": "feat(commit-execution): implement step 1"
+        },
+        {
+          "id": "AE-024",
+          "enabled": true,
+          "phase": "Commit execution",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 24: Commit execution step 2\n",
+          "message_template": "feat(commit-execution): implement step 2"
+        },
+        {
+          "id": "AE-025",
+          "enabled": true,
+          "phase": "Commit execution",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 25: Commit execution step 3\n",
+          "message_template": "feat(commit-execution): implement step 3"
+        },
+        {
+          "id": "AE-026",
+          "enabled": true,
+          "phase": "Commit execution",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 26: Commit execution step 4\n",
+          "message_template": "feat(commit-execution): implement step 4"
+        },
+        {
+          "id": "AE-027",
+          "enabled": true,
+          "phase": "Persistent state",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 27: Persistent state step 1\n",
+          "message_template": "feat(persistent-state): implement step 1"
+        },
+        {
+          "id": "AE-028",
+          "enabled": true,
+          "phase": "Persistent state",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 28: Persistent state step 2\n",
+          "message_template": "feat(persistent-state): implement step 2"
+        },
+        {
+          "id": "AE-029",
+          "enabled": true,
+          "phase": "Persistent state",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 29: Persistent state step 3\n",
+          "message_template": "feat(persistent-state): implement step 3"
+        },
+        {
+          "id": "AE-030",
+          "enabled": true,
+          "phase": "Persistent state",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 30: Persistent state step 4\n",
+          "message_template": "feat(persistent-state): implement step 4"
+        },
+        {
+          "id": "AE-031",
+          "enabled": true,
+          "phase": "Logging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 31: Logging step 1\n",
+          "message_template": "feat(logging): implement step 1"
+        },
+        {
+          "id": "AE-032",
+          "enabled": true,
+          "phase": "Logging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 32: Logging step 2\n",
+          "message_template": "feat(logging): implement step 2"
+        },
+        {
+          "id": "AE-033",
+          "enabled": true,
+          "phase": "Logging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 33: Logging step 3\n",
+          "message_template": "feat(logging): implement step 3"
+        },
+        {
+          "id": "AE-034",
+          "enabled": true,
+          "phase": "Logging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 34: Logging step 4\n",
+          "message_template": "feat(logging): implement step 4"
+        },
+        {
+          "id": "AE-035",
+          "enabled": true,
+          "phase": "Dry-run",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 35: Dry-run step 1\n",
+          "message_template": "feat(dry-run): implement step 1"
+        },
+        {
+          "id": "AE-036",
+          "enabled": true,
+          "phase": "Dry-run",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 36: Dry-run step 2\n",
+          "message_template": "feat(dry-run): implement step 2"
+        },
+        {
+          "id": "AE-037",
+          "enabled": true,
+          "phase": "Dry-run",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 37: Dry-run step 3\n",
+          "message_template": "feat(dry-run): implement step 3"
+        },
+        {
+          "id": "AE-038",
+          "enabled": true,
+          "phase": "Dry-run",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 38: Dry-run step 4\n",
+          "message_template": "feat(dry-run): implement step 4"
+        },
+        {
+          "id": "AE-039",
+          "enabled": true,
+          "phase": "Error handling",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 39: Error handling step 1\n",
+          "message_template": "feat(error-handling): implement step 1"
+        },
+        {
+          "id": "AE-040",
+          "enabled": true,
+          "phase": "Error handling",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 40: Error handling step 2\n",
+          "message_template": "feat(error-handling): implement step 2"
+        },
+        {
+          "id": "AE-041",
+          "enabled": true,
+          "phase": "Error handling",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 41: Error handling step 3\n",
+          "message_template": "feat(error-handling): implement step 3"
+        },
+        {
+          "id": "AE-042",
+          "enabled": true,
+          "phase": "Error handling",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 42: Error handling step 4\n",
+          "message_template": "feat(error-handling): implement step 4"
+        },
+        {
+          "id": "AE-043",
+          "enabled": true,
+          "phase": "Execution limits",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 43: Execution limits step 1\n",
+          "message_template": "feat(execution-limits): implement step 1"
+        },
+        {
+          "id": "AE-044",
+          "enabled": true,
+          "phase": "Execution limits",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 44: Execution limits step 2\n",
+          "message_template": "feat(execution-limits): implement step 2"
+        },
+        {
+          "id": "AE-045",
+          "enabled": true,
+          "phase": "Execution limits",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 45: Execution limits step 3\n",
+          "message_template": "feat(execution-limits): implement step 3"
+        },
+        {
+          "id": "AE-046",
+          "enabled": true,
+          "phase": "Execution limits",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 46: Execution limits step 4\n",
+          "message_template": "feat(execution-limits): implement step 4"
+        },
+        {
+          "id": "AE-047",
+          "enabled": true,
+          "phase": "One-shot lifecycle",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 47: One-shot lifecycle step 1\n",
+          "message_template": "feat(one-shot-lifecycle): implement step 1"
+        },
+        {
+          "id": "AE-048",
+          "enabled": true,
+          "phase": "One-shot lifecycle",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 48: One-shot lifecycle step 2\n",
+          "message_template": "feat(one-shot-lifecycle): implement step 2"
+        },
+        {
+          "id": "AE-049",
+          "enabled": true,
+          "phase": "One-shot lifecycle",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 49: One-shot lifecycle step 3\n",
+          "message_template": "feat(one-shot-lifecycle): implement step 3"
+        },
+        {
+          "id": "AE-050",
+          "enabled": true,
+          "phase": "One-shot lifecycle",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 50: One-shot lifecycle step 4\n",
+          "message_template": "feat(one-shot-lifecycle): implement step 4"
+        },
+        {
+          "id": "AE-051",
+          "enabled": true,
+          "phase": "Windows Startup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 51: Windows Startup step 1\n",
+          "message_template": "feat(windows-startup): implement step 1"
+        },
+        {
+          "id": "AE-052",
+          "enabled": true,
+          "phase": "Windows Startup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 52: Windows Startup step 2\n",
+          "message_template": "feat(windows-startup): implement step 2"
+        },
+        {
+          "id": "AE-053",
+          "enabled": true,
+          "phase": "Windows Startup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 53: Windows Startup step 3\n",
+          "message_template": "feat(windows-startup): implement step 3"
+        },
+        {
+          "id": "AE-054",
+          "enabled": true,
+          "phase": "Windows Startup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 54: Windows Startup step 4\n",
+          "message_template": "feat(windows-startup): implement step 4"
+        },
+        {
+          "id": "AE-055",
+          "enabled": true,
+          "phase": "Windows Startup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 55: Windows Startup step 5\n",
+          "message_template": "feat(windows-startup): implement step 5"
+        },
+        {
+          "id": "AE-056",
+          "enabled": true,
+          "phase": "PyInstaller packaging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 56: PyInstaller packaging step 1\n",
+          "message_template": "feat(pyinstaller-packaging): implement step 1"
+        },
+        {
+          "id": "AE-057",
+          "enabled": true,
+          "phase": "PyInstaller packaging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 57: PyInstaller packaging step 2\n",
+          "message_template": "feat(pyinstaller-packaging): implement step 2"
+        },
+        {
+          "id": "AE-058",
+          "enabled": true,
+          "phase": "PyInstaller packaging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 58: PyInstaller packaging step 3\n",
+          "message_template": "feat(pyinstaller-packaging): implement step 3"
+        },
+        {
+          "id": "AE-059",
+          "enabled": true,
+          "phase": "PyInstaller packaging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 59: PyInstaller packaging step 4\n",
+          "message_template": "feat(pyinstaller-packaging): implement step 4"
+        },
+        {
+          "id": "AE-060",
+          "enabled": true,
+          "phase": "PyInstaller packaging",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 60: PyInstaller packaging step 5\n",
+          "message_template": "feat(pyinstaller-packaging): implement step 5"
+        },
+        {
+          "id": "AE-061",
+          "enabled": true,
+          "phase": "Integration testing",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 61: Integration testing step 1\n",
+          "message_template": "feat(integration-testing): implement step 1"
+        },
+        {
+          "id": "AE-062",
+          "enabled": true,
+          "phase": "Integration testing",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 62: Integration testing step 2\n",
+          "message_template": "feat(integration-testing): implement step 2"
+        },
+        {
+          "id": "AE-063",
+          "enabled": true,
+          "phase": "Integration testing",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 63: Integration testing step 3\n",
+          "message_template": "feat(integration-testing): implement step 3"
+        },
+        {
+          "id": "AE-064",
+          "enabled": true,
+          "phase": "Integration testing",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 64: Integration testing step 4\n",
+          "message_template": "feat(integration-testing): implement step 4"
+        },
+        {
+          "id": "AE-065",
+          "enabled": true,
+          "phase": "Integration testing",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 65: Integration testing step 5\n",
+          "message_template": "feat(integration-testing): implement step 5"
+        },
+        {
+          "id": "AE-066",
+          "enabled": true,
+          "phase": "GitHub integration",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 66: GitHub integration step 1\n",
+          "message_template": "feat(github-integration): implement step 1"
+        },
+        {
+          "id": "AE-067",
+          "enabled": true,
+          "phase": "GitHub integration",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 67: GitHub integration step 2\n",
+          "message_template": "feat(github-integration): implement step 2"
+        },
+        {
+          "id": "AE-068",
+          "enabled": true,
+          "phase": "GitHub integration",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 68: GitHub integration step 3\n",
+          "message_template": "feat(github-integration): implement step 3"
+        },
+        {
+          "id": "AE-069",
+          "enabled": true,
+          "phase": "GitHub integration",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 69: GitHub integration step 4\n",
+          "message_template": "feat(github-integration): implement step 4"
+        },
+        {
+          "id": "AE-070",
+          "enabled": true,
+          "phase": "Documentation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 70: Documentation step 1\n",
+          "message_template": "feat(documentation): implement step 1"
+        },
+        {
+          "id": "AE-071",
+          "enabled": true,
+          "phase": "Documentation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 71: Documentation step 2\n",
+          "message_template": "feat(documentation): implement step 2"
+        },
+        {
+          "id": "AE-072",
+          "enabled": true,
+          "phase": "Documentation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 72: Documentation step 3\n",
+          "message_template": "feat(documentation): implement step 3"
+        },
+        {
+          "id": "AE-073",
+          "enabled": true,
+          "phase": "Documentation",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 73: Documentation step 4\n",
+          "message_template": "feat(documentation): implement step 4"
+        },
+        {
+          "id": "AE-074",
+          "enabled": true,
+          "phase": "Final cleanup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 74: Final cleanup step 1\n",
+          "message_template": "feat(final-cleanup): implement step 1"
+        },
+        {
+          "id": "AE-075",
+          "enabled": true,
+          "phase": "Final cleanup",
+          "file_path": "logs/development_history.md",
+          "operation": "append",
+          "content": "Completed task 75: Final cleanup step 2\n",
+          "message_template": "feat(final-cleanup): implement step 2"
+        }
+      ]
+    }
+  ]
+}
